@@ -9,7 +9,7 @@ fatal: cannot lock ref 'refs/heads/apps/test/featute/test1': 'refs/heads/apps/te
 ```
 
 
-
+Finish feature
 ```sh
 #!/bin/bash
 # Finish a feature and merge it into dev
@@ -29,6 +29,7 @@ git push origin dev
 echo "Feature $feature_name finished and merged into dev."
 ```
 
+New Branch 
 
 ```sh
 #!/bin/bash
