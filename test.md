@@ -46,3 +46,5 @@ git pull origin dev
 git checkout -b feature/$feature_name
 echo "Started feature branch: feature/$feature_name"
 ```
+
+test 5
