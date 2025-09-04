@@ -1,17 +1,30 @@
-### Hi there 👋
+# Hi, I'm Robin 👋
 
-<!--
-**rbmalik1994/rbmalik1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a lead software developer with a passion for solving real-world problems through technology. My journey has taken me across the worlds of **database development** (Oracle DB, MongoDB), **data science**, **data engineering**, and **DevOps**. I thrive in environments where innovation and collaboration come together!
 
-Here are some ideas to get you started:
+## 🧑‍💻 Top Skills
+- **Oracle DB** & **MongoDB**
+- **Shell Scripting**
+- **JavaScript**
+- **Python**
+- Data Science & Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 
+## 🛠️ Projects
+I’m actively working on new flagship projects—stay tuned!  
+Meanwhile, check out some of my top repositories:
+- [bookish-parakeet](https://github.com/rbmalik1994/bookish-parakeet)
+- [vscode-forge](https://github.com/rbmalik1994/vscode-forge)
+- [Artoo-Detoo](https://github.com/rbmalik1994/Artoo-Detoo)
+- [git-work-space](https://github.com/rbmalik1994/git-work-space)
+- [python-mono-repo](https://github.com/rbmalik1994/python-mono-repo)
+
+## 🌐 Connect With Me
+*(Social links coming soon!)*
+
+## 🎵 Fun Facts
+When I’m not coding, you’ll find me lost in a good book, exploring new music, or leveling up my skills.
+
+---
+
+*Thanks for stopping by—let’s build something amazing together!*
